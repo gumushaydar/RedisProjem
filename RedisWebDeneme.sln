@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisWebDeneme", "RedisWebDeneme\RedisWebDeneme.csproj", "{93CA3C1E-32B7-4365-B141-7F08DA9AF7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{95D93602-DE7D-46C3-83AC-CDF00C48E688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CA3C1E-32B7-4365-B141-7F08DA9AF7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CA3C1E-32B7-4365-B141-7F08DA9AF7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CA3C1E-32B7-4365-B141-7F08DA9AF7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CA3C1E-32B7-4365-B141-7F08DA9AF7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D93602-DE7D-46C3-83AC-CDF00C48E688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D93602-DE7D-46C3-83AC-CDF00C48E688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D93602-DE7D-46C3-83AC-CDF00C48E688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D93602-DE7D-46C3-83AC-CDF00C48E688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C6D68DB-93E8-4779-9D93-E92D6CF6D552}
+	EndGlobalSection
+EndGlobal

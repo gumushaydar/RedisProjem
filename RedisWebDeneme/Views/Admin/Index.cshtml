@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Admin Page";
+
+
+}
+
+@using (Html.BeginForm("addKey", "Admin", FormMethod.Post))
+
+{
+    @Html.Label("Key")<br />
+    @Html.TextBox("Key")<br />
+
+    @Html.Label("Value")<br />
+    @Html.TextBox("Value")<br />
+
+
+
+    <button type="submit"> Submit</button>
+}
+
+
+

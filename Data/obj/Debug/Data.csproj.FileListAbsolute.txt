@@ -1,0 +1,10 @@
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\Data.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\Data.pdb
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\StackExchange.Redis.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\bin\Debug\StackExchange.Redis.xml
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\obj\Debug\Data.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Data\obj\Debug\Data.pdb

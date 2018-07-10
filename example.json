@@ -1,0 +1,17 @@
+{
+    "AppConfig": {
+        "CdnUrl": "www.blaba.hepsiburada.com",
+        "ApiUrl": "www.aaa.hepsiburada.com"
+    },
+    "Product": {
+        " Id": 1,
+        "Price": 19.33,
+        "Name": "Kalem"
+    },
+    "User": {
+        "Id": 1,
+        "FirstName": "haydarcan",
+        "LastName": "Gumus",
+        "Email": "haydarcan@gmail.com"
+    }
+}
