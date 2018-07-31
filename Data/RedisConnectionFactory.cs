@@ -13,7 +13,8 @@ namespace Data
         {
             lazyConnection = new Lazy<ConnectionMultiplexer>(() =>
             {
-                return ConnectionMultiplexer.Connect("localhost:6379");//redis server conn string bilgisi, web config'den almak daha doğru ancak şimdilik buraya yazdı
+                return ConnectionMultiplexer.Connect("localhost:6379");
+                
 
             });
         }
@@ -28,4 +29,7 @@ namespace Data
                 lazyConnection.Value.Dispose();
         }
     }
+
+   
+
 }

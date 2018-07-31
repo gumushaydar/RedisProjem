@@ -1,0 +1,25 @@
+﻿@model List<RedisWebDeneme.Models.Channel>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("AddChannel", "Channel", FormMethod.Post))
+{
+    <input type="text" name="Channel" class="form-control" placeholder="Channel Name" /><br />
+    <input type="submit" class="btn-success" value="Submit" />
+
+}
+
+<h1>Channel List</h1>
+<br />
+@if (Model != null && Model.Count != 0)
+{
+    foreach (var item in Model)
+    {
+        @Html.ActionLink(item.ChannelName, "Channels", "Channel",
+        new {channelId = item.ChannelId}, 
+        new { @class = "btn btn-primary btn-block" })
+    }
+
+}

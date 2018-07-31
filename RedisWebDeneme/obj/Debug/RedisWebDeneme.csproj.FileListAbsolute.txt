@@ -20,11 +20,13 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\Microsoft.
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\Microsoft.Win32.Primitives.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.AppContext.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Collections.Immutable.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Console.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Diagnostics.Process.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Diagnostics.StackTrace.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.Compression.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.FileSystem.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.Pipes.dll
@@ -49,6 +51,9 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\vbc.rsp
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\VBCSCompiler.exe
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Antlr3.Runtime.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Data.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\EntityFramework.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\EntityFramework.SqlServer.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.AI.DependencyCollector.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -60,6 +65,7 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.AspNet.
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Newtonsoft.Json.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\StackExchange.Redis.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Diagnostics.DiagnosticSource.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Helpers.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Mvc.dll
@@ -69,6 +75,12 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPag
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPages.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPages.Razor.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\WebGrease.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Data.pdb
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Data.dll.config
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\EntityFramework.xml
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\EntityFramework.SqlServer.xml
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Newtonsoft.Json.xml
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\StackExchange.Redis.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Helpers.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Mvc.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Optimization.xml
@@ -76,7 +88,6 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.Razor.
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPages.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPages.Deployment.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Web.WebPages.Razor.xml
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Newtonsoft.Json.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Antlr3.Runtime.pdb
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Microsoft.AspNet.TelemetryCorrelation.xml
@@ -89,9 +100,7 @@ C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDen
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.csproj.CopyComplete
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.dll
 C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.pdb
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Data.dll
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\StackExchange.Redis.dll
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\Data.pdb
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\StackExchange.Redis.xml
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.Migrations.InitialCreate.resources
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.csproj.GenerateResource.cache
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.Migrations.asd.resources
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\RedisWebDeneme\obj\Debug\RedisWebDeneme.Migrations.removeforeign.resources

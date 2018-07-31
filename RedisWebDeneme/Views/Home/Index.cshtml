@@ -1,12 +1,28 @@
-﻿@{
+﻿
+@{
     ViewBag.Title = "Home Page";
     Layout = "~/Views/Shared/_Layout.cshtml";
     @Styles.Render("~/Content/home-page.css")
 
 }
 
+@foreach (var item in (string[])ViewData["ValueAndKey"])
+{
+
+    <table class="table">
+
+        <tbody>
+            <tr>
+                <td>@item</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+}
 <div>
-    <form action="http://localhost:58510/admin/index">
+    <form action="http://localhost:58510/admin/index" method="post">
         <button type="submit" class="btn btn-primary btn-lg navigate-to-home-page">ADD KEY</button>
     </form>
-</div>  
+</div>
+@ViewData["ChannelNames"]

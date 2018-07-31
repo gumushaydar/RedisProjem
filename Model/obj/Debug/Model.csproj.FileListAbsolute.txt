@@ -1,0 +1,6 @@
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\bin\Debug\Model.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\bin\Debug\Model.pdb
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\obj\Debug\Model.dll
+C:\Users\kgumus\Source\Repos\RedisWebDeneme\Model\obj\Debug\Model.pdb

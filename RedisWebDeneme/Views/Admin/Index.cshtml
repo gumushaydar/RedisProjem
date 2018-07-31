@@ -4,19 +4,16 @@
 
 }
 
+
+
+
+
 @using (Html.BeginForm("addKey", "Admin", FormMethod.Post))
-
 {
-    @Html.Label("Key")<br />
-    @Html.TextBox("Key")<br />
+    <input type="text" name="Key" id="Key" class="form-control" placeholder="Key" /><br />
+    <input type="text" name="Value" id="Value" class="form-control" placeholder="Value" /><br />
 
-    @Html.Label("Value")<br />
-    @Html.TextBox("Value")<br />
-
-
-
-    <button type="submit"> Submit</button>
+    <input type="submit" class="btn-success" value="Submit" />
 }
-
 
 
